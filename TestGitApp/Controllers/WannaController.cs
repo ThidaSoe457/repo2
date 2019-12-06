@@ -11,6 +11,13 @@ namespace TestGitApp.Controllers
         public IActionResult Index()
         {
             return View();
+
+
+        /*glkdfgfdgkfgds*/
+        }
+        public IActionResult Thida()
+        {
+            return View();
         }
 
         public IActionResult Edit()
