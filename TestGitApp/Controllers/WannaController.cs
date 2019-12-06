@@ -12,5 +12,9 @@ namespace TestGitApp.Controllers
         {
             return View();
         }
+        public IActionResult Thida()
+        {
+            return View();
+        }
     }
 }
